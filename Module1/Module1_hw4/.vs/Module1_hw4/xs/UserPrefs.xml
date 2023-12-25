@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B02D6663-6B5A-443D-99D9-4874F8FFA65D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Module1__hw4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Module1_hw4/Program.cs">
+    <Files>
+      <File FileName="Module1_hw4/Program.cs" Line="160" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Module1_hw4" expanded="True">
+            <Node name="Module1_hw4">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
